@@ -1,0 +1,4 @@
+Predefined word                                   		Match count
+name                                              		2
+ai                                                		4
+detect                                            		0
